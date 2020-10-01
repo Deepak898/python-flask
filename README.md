@@ -2,7 +2,7 @@
 layout: ots
 title: README 
 ---
-
+## OpenTechSchool 
 Site can be viewed [here](http://opentechschool.github.com/python-flask)
 
 This is a friendly how-to for contributors to the Websites with Python Flask course at OpenTechSchool. First, a quick refresher on the course:
